@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,eu sou o Felipe Kretzschmar</h1>
+<h1 align="center">Olá 👋, me chamo Felipe Kretzschmar</h1>
 <h3 align="center">Aqui você encontra Documentações e Projetos Front-end e Back-end</h3>
 
 ![imagem matrix](matrix.jpg)
