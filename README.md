@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋,eu sou o Felipe Kretzschmar</h1>
-<h3 align="center">Aqui você encontra projetos usando HTML5 e CSS3</h3>
+<h3 align="center">Aqui você encontra Documentações e Projetos Front-end e Back-end</h3>
 
 ![imagem matrix](matrix.jpg)
 
