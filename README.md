@@ -1,18 +1,18 @@
 <h1 align="center">Olá 👋, me chamo Felipe Kretzschmar</h1>
-<h3 align="center">Aqui você encontra Documentações e Projetos Front-end e Back-end</h3>
+<h3 align="center">Aqui você encontra Documentações e Projetos na área de Dados</h3>
 
 ![imagem matrix](matrix.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkretzschmar&label=Profile%20views&color=0e75b6&style=flat" alt="fkretzschmar" /> </p>
 
-- 🔭 No momento estou trabalhando com **HTML5 e CSS3**
+- 🔭 No momento estou trabalhando com **Power BI | Python | SQL | Figma**
 
-- 🌱 Atualmente estou me aperfeiçoando em **HTML5 e CSS3**
+- 🌱 Atualmente estou me aperfeiçoando em **Power BI | Python | SQL | Figma**
 
 - 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/fkretzschmar](https://github.com/fkretzschmar)
 
-- 💬 Pergunte-me sobre **HTML5 e CSS3**
+- 💬 Pergunte-me sobre **Power BI | Python | SQL | Figma**
 
 - 📫Contato: **ffkretzschmar@gmail.com**
 
