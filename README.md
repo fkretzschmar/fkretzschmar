@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Felipe Kretzschmar</h1>
 <h3 align="center">Aqui você encontra Documentações e Projetos na área de Dados</h3>
 
-![imagem matrix]([matrix.jpg](https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/11/what-is-data-analytics-mads.jpg))
+![imagem matrix]([Data-Science-and-Analytics.jpg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkretzschmar&label=Profile%20views&color=0e75b6&style=flat" alt="fkretzschmar" /> </p>
