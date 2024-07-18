@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Felipe Kretzschmar</h1>
 <h3 align="center">Aqui você encontra Documentações e Projetos na área de Dados</h3>
 
-![Banner]([[Data-Science-and-Analytics.jpg](https://github.com/fkretzschmar/fkretzschmar/blob/main/Data-Science-and-Analytics.jpg?raw=true)
+![Banner](https://github.com/fkretzschmar/fkretzschmar/blob/main/Data-Science-and-Analytics.jpg?raw=true)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkretzschmar&label=Profile%20views&color=0e75b6&style=flat" alt="fkretzschmar" /> </p>
